@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/shivam/static/css/main.1a833217.css",
+    "main.js": "/shivam/static/js/main.120a76e0.js",
+    "static/js/453.ace21015.chunk.js": "/shivam/static/js/453.ace21015.chunk.js",
+    "static/media/Shivam_Maurya_CV.pdf": "/shivam/static/media/Shivam_Maurya_CV.6237039daedadd348bd7.pdf",
+    "static/media/home-main.svg": "/shivam/static/media/home-main.cf6bcd382c6ea8b0042261c919379683.svg",
+    "static/media/daylog.jpg": "/shivam/static/media/daylog.147d3255833da71689ef.jpg",
+    "static/media/daylog1.jpg": "/shivam/static/media/daylog1.5daf0cb190cf0159e49a.jpg",
+    "static/media/daylogs2.jpg": "/shivam/static/media/daylogs2.c1740781860e0918d36f.jpg",
+    "static/media/vcredil3.png": "/shivam/static/media/vcredil3.0630763f36a9fe73e738.png",
+    "static/media/daylogsweb1.png": "/shivam/static/media/daylogsweb1.15d2132d1386ed1b046c.png",
+    "static/media/daylogsweb2.png": "/shivam/static/media/daylogsweb2.15d2132d1386ed1b046c.png",
+    "static/media/daylogsweb3.png": "/shivam/static/media/daylogsweb3.15d2132d1386ed1b046c.png",
+    "static/media/vcredil2.png": "/shivam/static/media/vcredil2.e160780a9693d4365ce2.png",
+    "static/media/vcredil1.png": "/shivam/static/media/vcredil1.8798673dab5fdbae8348.png",
+    "static/media/upicondashboard.png": "/shivam/static/media/upicondashboard.fb44558a73f085f98129.png",
+    "static/media/upicondashboard1.png": "/shivam/static/media/upicondashboard1.fb44558a73f085f98129.png",
+    "static/media/upicondashboard2.png": "/shivam/static/media/upicondashboard2.fb44558a73f085f98129.png",
+    "static/media/about.png": "/shivam/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/home-bg.jpg": "/shivam/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/avatar.svg": "/shivam/static/media/avatar.7f806e40d46fc76fbc3c4a3d71349951.svg",
+    "static/media/pre.svg": "/shivam/static/media/pre.4410c5baaa673cc131da.svg",
+    "index.html": "/shivam/index.html",
+    "main.1a833217.css.map": "/shivam/static/css/main.1a833217.css.map",
+    "main.120a76e0.js.map": "/shivam/static/js/main.120a76e0.js.map",
+    "453.ace21015.chunk.js.map": "/shivam/static/js/453.ace21015.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1a833217.css",
+    "static/js/main.120a76e0.js"
+  ]
+}
